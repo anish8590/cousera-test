@@ -75,7 +75,6 @@ p {
   background-color: #FF7F50;
   margin-top: -0.3%;
   border: 1px solid black;
-  padding: 2px 37px 5px 37px;
   right:-35.1%;
   text-align: center;
   font-weight: bold;
@@ -85,7 +84,6 @@ p {
 #p2 {
   background-color: #A52A2A;
  margin-top: -0.3%;
- padding: 2px 37px 5px 37px;
   border: 1px solid black;
   right:-35.1%;
   text-align: center;
@@ -96,7 +94,6 @@ p {
 #p3 {
   background-color: #DEB887;
  margin-top: -0.3%;
- padding: 2px 37px 5px 37px;
   border: 1px solid black;
   text-align: center;
   font-weight: bold;
