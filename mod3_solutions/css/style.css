@@ -13,7 +13,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: green;
     border-radius: 0;
     border: 0;
 }
@@ -65,7 +65,7 @@ body {
 
 #nav-list a:hover {
     color: #202020;
-    background-color: #fce29e;
+    background-color: green;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -101,7 +101,7 @@ body {
     padding: 20px;
     background-color: #99ed7b;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px red;
 }
 
 
